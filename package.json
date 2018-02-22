@@ -1,0 +1,26 @@
+{
+  "name": "lif-map-diff",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "combine-tiles": "^0.2.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "flatpickr-select": "^4.0.7",
+    "hbs": "~4.0.1",
+    "image-downloader": "^3.3.0",
+    "looks-same": "^3.3.0",
+    "morgan": "~1.9.0",
+    "node-datetime": "^2.0.6",
+    "node-sass-middleware": "0.11.0",
+    "pixelmatch": "^4.0.2",
+    "pngjs": "^3.3.1",
+    "schedule": "^0.1.0",
+    "serve-favicon": "~2.4.5"
+  }
+}
